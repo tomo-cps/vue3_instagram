@@ -1,7 +1,7 @@
 # Instagram Clone with Vue 3
 <table>
 Here's Instagram clone app built with Vue 3, Vuetify 3 !
-I was able to get [this source code] (https://codesandbox.io/s/8ypo1v7xq2?from-embed)to work in vue3 as well.
+I was able to get [this source code] (https://codesandbox.io/s/8ypo1v7xq2?from-embed) to work in vue3 as well.
   <thead>
     <th>Homepage</th>
     <th>Select Image</th>
